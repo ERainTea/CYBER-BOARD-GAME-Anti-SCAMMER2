@@ -1,0 +1,8 @@
+{
+  "name": "CYBER BOARD GAME Anti SCAMMER",
+  "description": "CYBER BOARD GAME Anti SCAMMER - บอร์ดเกมการเรียนรู้และรู้ทันภัยไซเบอร์ พร้อมระบบเล่นออนไลน์และออฟไลน์",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
